@@ -4,7 +4,9 @@
     margin: 0;
     font-family: monospace;
 }
-
+.menu{
+    padding-left: 30px;
+}
 ul {
     list-style: none;
     background: black;
@@ -13,6 +15,7 @@ ul {
 ul li {
     display: inline-block;
     position: relative;
+    padding : 0 20px;
 }
 ul li a {
     display: block;
