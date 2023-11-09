@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> be607d4b627d228b0f6d4a45e6d2623993eada3d
 *{
     padding: 0;
     margin: 0;
@@ -15,6 +20,10 @@ ul {
 ul li {
     display: inline-block;
     position: relative;
+<<<<<<< HEAD
+=======
+    padding : 0 40px;
+>>>>>>> be607d4b627d228b0f6d4a45e6d2623993eada3d
 }
 ul li a {
     display: block;
@@ -22,7 +31,12 @@ ul li a {
     color: #FFF;
     text-decoration: none;
     text-align: center;
+<<<<<<< HEAD
     font-size: 15px;
+=======
+    font-size: 20px;
+
+>>>>>>> be607d4b627d228b0f6d4a45e6d2623993eada3d
 }
 ul li ul.dropdown li {
     display: block;
