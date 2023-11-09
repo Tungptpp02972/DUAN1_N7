@@ -15,6 +15,7 @@ ul {
 ul li {
     display: inline-block;
     position: relative;
+    padding : 0 20px;
 }
 ul li a {
     display: block;
