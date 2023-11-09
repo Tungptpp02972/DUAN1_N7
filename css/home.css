@@ -24,6 +24,7 @@ ul li a {
     text-decoration: none;
     text-align: center;
     font-size: 20px;
+
 }
 ul li ul.dropdown li {
     display: block;
